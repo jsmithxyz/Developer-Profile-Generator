@@ -1,0 +1,17 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "This will be used to pull Github profiles to create a Developer Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jordan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.3"
+  }
+}
