@@ -10,6 +10,8 @@ This application is designed to create a résume in PDF format that displays key
 - This resume will display their full name, Github username, Location, Github profile link, Blog link, Public Repo Count, Followers and Following Count, as well as Starred Repos.
 - The PDF file will be styled according to the users choice of favorite color. 
 
+![](profileGiphy.gif)
+
 ## Tech used
 - HTML
 - CSS
