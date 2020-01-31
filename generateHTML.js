@@ -41,7 +41,7 @@ function generateHTML(user) {
         <body>
           <div class="wrapper">
             <div class="photo-header">
-              <img src="${user.profileImg}"/>
+              <h2><img src="${user.profileImg}"/></h2>
               <h1>Hi!</h1>
               <h2>My name is ${user.profileName}</h2>
               <h2>Github username: ${user.login}</h2>
